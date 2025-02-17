@@ -1,0 +1,310 @@
+:root {
+    --main-color: #547e3c;
+    --color: #547e3c;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    line-height: 1.4 !important;
+}
+
+p {
+    text-align: justify;
+}
+
+::selection {
+    color: #FAF3E0;
+    background: gray;
+}
+
+.preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--main-color);
+    z-index: 9999;
+    animation: fadeEffectAll 3s ease-in-out;
+}
+
+.preloader-image {
+    width: 400px;
+    animation: fadeEffectLogo 1s ease-in-out;
+}
+
+@keyframes fadeEffectAll {
+    60% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeEffectLogo {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.div_cta {
+    margin-bottom: 140px;
+}
+
+.div_process_grid p {
+    text-align: justify;
+}
+
+.heading-13 {
+    font-size: 5.5rem;
+}
+
+.heading-2 {
+    font-size: 2rem;
+}
+
+.social-link-full:hover {
+    opacity: 0.8;
+}
+
+.logo-image {
+    height: 55px;
+    border-radius: 4px;
+}
+
+.nav-link-2 {
+    color: var(--main-color);
+}
+
+.body_door .heading-13 {
+    color: var(--main-color)
+}
+
+.footer-02 {
+    background-color: var(--main-color);
+}
+
+.footer-02 * {
+    color: #f6f4f5;
+}
+
+.footer-02 a:hover {
+    opacity: 0.8;
+}
+
+.footer_email {
+    margin-top: 12px;
+    padding: 8px;
+    padding-left: 0;
+}
+
+.footer_adrdress {
+    width: 260px;
+}
+
+.image-22 {
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 8px;
+}
+
+.button-3:hover {
+    border-color: var(--main-color);
+}
+
+.grid-2 {
+    grid-column-gap: 3em;
+}
+
+/* Our Projects */
+.div_work {
+    align-items: flex-start;
+    margin: 0 -12px;
+    padding: 40px 0 80px;
+}
+
+.div_work_left {
+    flex-direction: column;
+}
+
+.div_work_left img {
+    width: 300px;
+    height: 300px;
+}
+
+.div_work_left .heading-18 {
+    margin: 0;
+    font-size: 3rem;
+}
+
+.div_work_right {
+    display: block;
+    margin-bottom: auto;
+}
+
+.projects-list {
+    margin-bottom: 140px;
+}
+
+.projects-list .projects-sublist {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.project-item {
+    position: relative;
+    margin-top: 24px;
+}
+
+.project-item::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 12px;
+    width: calc(100% - 24px);
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+    transition: background 0.3s ease;
+}
+
+.project-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: calc(100% - 36px);
+    text-align: center;
+    line-height: 1.2;
+    opacity: 0;
+    transition: opacity 0.3s ease, color 0.3s ease;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.project-item:hover::before {
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.project-item:hover .project-title {
+    opacity: 1;
+    color: rgba(255, 255, 255, 1);
+}
+
+/* Modal styles */
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1000;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    justify-content: center;
+    align-items: center;
+    margin-left: 0;
+}
+
+.modal-content {
+    background: white;
+    padding: 60px;
+    width: 80%;
+    height: 80vh;
+    overflow: auto;
+    border-radius: 8px;
+}
+
+#project-title {
+    text-align: left;
+    font-weight: bold;
+    margin-bottom: 40px;
+}
+
+.close {
+    float: right;
+    cursor: pointer;
+    font-size: 24px;
+    padding: 8px 10px;
+}
+
+.project-images {
+    margin-top: 20px
+}
+
+.project-images img {
+    width: 100%;
+    margin-top: 6px;
+}
+
+.close {
+    padding: 8px 14px;
+}
+
+.info-block {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.project-info {
+    font-size: 18px;
+}
+
+/* Contract */
+.contact7_form .button-2 {
+    line-height: 0;
+}
+
+.contact7_form-block {
+    margin-top: 60px;
+}
+
+.text-block-8 {
+    color: rgb(234, 38, 38);
+}
+
+.paragraph-13 {
+    text-align: justify;
+}
+
+/* About */
+.section-4 {
+    margin-top: 80px;
+}
+
+.section-4 img {
+    height: 300px;
+}
+
+.left_div {
+    text-align: center;
+    margin-right: 45px;
+}
+
+.right_div {
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.heading-15 {
+    margin-bottom: 0;
+}
+
+.parahraph_about {
+    text-align: justify;
+}

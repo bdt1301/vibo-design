@@ -1,0 +1,25 @@
+{
+    "vibo": {
+        "title": "Vibo Design",
+        "client": "Công ty A",
+        "scope": "Thiết kế UI/UX",
+        "year": 2023,
+        "images": [
+            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
+            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
+            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
+            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
+            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg"
+        ]
+    },
+    "xyz": {
+        "title": "XYZ Branding",
+        "client": "Công ty B",
+        "scope": "Thiết kế thương hiệu",
+        "year": 2024,
+        "images": [
+            "/images/xyz1.jpg",
+            "/images/xyz2.jpg"
+        ]
+    }
+}

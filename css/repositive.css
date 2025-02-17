@@ -1,0 +1,145 @@
+/* Tablet and Mobile */
+@media (max-width:991px) {
+    .navbar-2 {
+        margin-top: 12px;
+    }
+
+    .brand img {
+        height: 55px;
+        border-radius: 6px;
+    }
+
+    .div_work_left .heading-18 {
+        font-size: 3rem;
+    }
+
+    .div_work_right {
+        margin-left: 0;
+    }
+
+    .pagination {
+        gap: 10px;
+    }
+
+    .pagination-btn {
+        padding: 10px 16px;
+    }
+}
+
+/* Tablet */
+@media (max-width:991px) and (min-width:480px) {
+    .section-4 {
+        margin-top: 20px;
+    }
+
+    .section-4 .left_div {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        margin-right: 0;
+        padding-bottom: 0;
+    }
+
+    .section-4 .right_div {
+        padding: 40px 3% 140px;
+    }
+
+    .right_div_child:last-child {
+        margin-bottom: 0;
+    }
+
+    .grid-2 {
+        grid-column-gap: 2.2em;
+    }
+}
+
+/* Mobile */
+@media (max-width:479px) {
+    .heading-13 {
+        font-size: 3.5rem;
+    }
+
+    .paragraph-11 {
+        padding-right: 0;
+    }
+
+    .footer-column.right-align {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .div_work {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .div_work .heading-18 {
+        margin-bottom: 12px;
+        font-size: 2.5rem;
+        text-align: center;
+    }
+
+    .div_work_left {
+        width: 100%;
+    }
+
+    .categories-list {
+        margin-left: 3%;
+        margin-right: 3%;
+        justify-content: space-between;
+    }
+
+    .projects-list {
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+
+    .section-4 {
+        margin-top: 20px;
+    }
+
+    .section-4 .left_div {
+        width: 100%;
+        margin-right: 0;
+        padding: 40px 0 0;
+    }
+
+    .heading-15 {
+        width: 100%;
+    }
+
+    .section-4 .right_div {
+        padding: 40px 3% 140px;
+    }
+
+    .right_div_child:last-child {
+        margin-bottom: 0;
+    }
+
+    .paragraph-13 {
+        margin-bottom: 0;
+    }
+
+    .section.contact {
+        padding-top: 40px;
+        padding-bottom: 140px;
+    }
+
+    .grid-2 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .div_cta {
+        margin-top: 160px;
+    }
+
+    .image-22 {
+        margin-top: 12px;
+    }
+
+    .modal-content {
+        width: 90%;
+        padding: 30px;
+    }
+}
