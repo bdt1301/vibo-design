@@ -132,8 +132,8 @@
   <script>
     setTimeout(() => {
       const currentPath = window.location.pathname;
-      document.querySelectorAll(".nav-link-2").forEach(link => {
-        if (currentPath.includes(link.getAttribute("href"))) {
+      document.querySelectorAll(".nav-link-2.w-nav-link").forEach(link => {
+        if (link.getAttribute("href").includes(currentPath)) {
           link.classList.add("w--current");
         }
       });
