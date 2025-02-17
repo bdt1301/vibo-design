@@ -65,7 +65,7 @@
 
                       <div class="form-field-wrapper">
                         <input class="form-input w-input" maxlength="16" name="budget" step="1000"
-                          placeholder="Ngân sách mong muốn cho sản phẩm (VND)" type="number">
+                          placeholder="Chi phí mong muốn cho dự án (VND)" type="number" required>
                       </div>
 
                       <div class="form-field-wrapper">
@@ -128,7 +128,16 @@
           link.classList.add("w--current");
         }
       });
-    }, 1000);
+    }, 2000);
+  </script>
+
+  <script>
+    document.getElementById('contact-form').addEventListener('submit', function (event) {
+      // Xóa nội dung form sau khi submit
+      setTimeout(() => {
+        event.target.reset();
+      }, 100);
+    });
   </script>
 
 </body>

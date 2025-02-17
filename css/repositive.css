@@ -138,8 +138,13 @@
         margin-top: 12px;
     }
 
+    #project-modal {
+        margin-right: 0;
+        padding: 12px;
+    }
+
     .modal-content {
-        width: 90%;
+        width: 100%;
         padding: 30px;
     }
 }

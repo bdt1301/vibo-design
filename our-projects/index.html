@@ -85,8 +85,10 @@
 
     <div id="project-modal" class="modal">
       <div class="modal-content">
-        <span class="close" onclick="closeModal()">&times;</span>
-        <h2 id="project-title"></h2>
+        <div class="title-block">
+          <h2 id="project-title"></h2>
+          <span class="close" onclick="closeModal()">&times;</span>
+        </div>
         <div class="info-block">
           <p class="project-info"><strong>Khách hàng:</strong> <span id="project-client"></span></p>
           <p class="project-info"><strong>Phạm vi:</strong> <span id="project-scope"></span></p>
@@ -135,7 +137,7 @@
           link.classList.add("w--current");
         }
       });
-    }, 1000);
+    }, 2000);
   </script>
 
   <script>

@@ -228,17 +228,24 @@ p {
     border-radius: 8px;
 }
 
-#project-title {
+.title-block {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+.title-block h2 {
     text-align: left;
     font-weight: bold;
-    margin-bottom: 40px;
+    margin-bottom: 0;
 }
 
 .close {
     float: right;
     cursor: pointer;
     font-size: 24px;
-    padding: 8px 10px;
+    padding: 8px 12px;
 }
 
 .project-images {
@@ -248,10 +255,6 @@ p {
 .project-images img {
     width: 100%;
     margin-top: 6px;
-}
-
-.close {
-    padding: 8px 14px;
 }
 
 .info-block {
