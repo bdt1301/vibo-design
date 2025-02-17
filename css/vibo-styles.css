@@ -168,7 +168,7 @@ p {
 
 .project-item {
     position: relative;
-    margin-top: 24px;
+    margin-top: 12px;
 }
 
 .project-item::before {
