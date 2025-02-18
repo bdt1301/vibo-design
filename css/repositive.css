@@ -24,6 +24,14 @@
     .pagination-btn {
         padding: 10px 16px;
     }
+
+    .project-item::before {
+        display: none;
+    }
+
+    .project-title {
+        display: none;
+    }
 }
 
 /* Tablet */
@@ -75,7 +83,7 @@
 
     .div_work .heading-18 {
         margin-bottom: 12px;
-        font-size: 2.5rem;
+        font-size: 2.2rem;
         text-align: center;
     }
 
@@ -145,6 +153,6 @@
 
     .modal-content {
         width: 100%;
-        padding: 30px;
+        padding: 28px;
     }
 }
