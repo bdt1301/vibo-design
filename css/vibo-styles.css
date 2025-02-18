@@ -148,6 +148,10 @@ p {
     grid-column-gap: 3em;
 }
 
+.paragraph-12 {
+    text-align: justify;
+}
+
 /* Our Projects */
 .div_work {
     align-items: flex-start;
