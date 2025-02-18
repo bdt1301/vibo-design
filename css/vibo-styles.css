@@ -124,14 +124,37 @@ p {
     opacity: 0.8;
 }
 
+.footer-column {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.footer-column:last-child * {
+    text-align: right;
+}
+
 .footer_email {
-    margin-top: 12px;
-    padding: 8px;
+    padding: 8px 0;
     padding-left: 0;
+    margin-top: 12px;
+}
+
+.social-link-full {
+    height: 0;
+    padding: 8px 0;
+    margin-left: 12px;
 }
 
 .footer_adrdress {
-    width: 260px;
+    display: inline-block;
+    width: auto;
+    line-height: 1.4;
+}
+
+.social-link-full {
+    margin-top: 12px;
 }
 
 .image-22 {
@@ -150,6 +173,10 @@ p {
 
 .paragraph-12 {
     text-align: justify;
+}
+
+.footer-grid-02 {
+    grid-template-columns: 1.25fr 1fr 1fr;
 }
 
 /* Our Projects */

@@ -71,11 +71,6 @@
         padding-right: 0;
     }
 
-    .footer-column.right-align {
-        flex-direction: row;
-        justify-content: space-between;
-    }
-
     .div_work {
         margin-left: 3%;
         margin-right: 3%;
@@ -154,5 +149,9 @@
     .modal-content {
         width: 100%;
         padding: 28px;
+    }
+
+    .footer-column {
+        justify-content: flex-start;
     }
 }
