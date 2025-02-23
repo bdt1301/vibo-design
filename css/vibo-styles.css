@@ -3,6 +3,10 @@
     --color: #547e3c;
 }
 
+ul {
+    padding-left: 30px;
+}
+
 h1,
 h2,
 h3,
@@ -83,7 +87,13 @@ p {
     margin-bottom: 140px;
 }
 
-.div_process_grid p {
+.grid_process_text_block {
+    font-size: 22px;
+}
+
+.div_process_grid .grid_paragraph {
+    font-size: 18px;
+    margin-top: 16px;
     text-align: justify;
 }
 
@@ -359,4 +369,12 @@ p {
 
 .parahraph_about {
     text-align: justify;
+}
+
+.service_item {
+    font-size: 24px;
+    margin-top: 16px;
+    text-align: justify;
+    color: #000;
+    line-height: 1.4;
 }

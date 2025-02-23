@@ -154,4 +154,13 @@
     .footer-column {
         justify-content: flex-start;
     }
+
+    .parahraph_about {
+        font-size: 18px;
+    }
+
+    .service_item {
+        font-size: 18px;
+        margin-top: 10px;
+    }
 }

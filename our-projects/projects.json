@@ -1,25 +1,16 @@
 {
     "vibo": {
-        "title": "Vibo Design",
-        "client": "Công ty A",
-        "scope": "Thiết kế UI/UX",
-        "year": 2023,
-        "images": [
-            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
-            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
-            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
-            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg",
-            "https://printgo.vn/uploads/media/837157/2_1715833247.jpg"
-        ]
-    },
-    "xyz": {
-        "title": "XYZ Branding",
-        "client": "Công ty B",
-        "scope": "Thiết kế thương hiệu",
+        "title": "Lá Trà",
+        "client": "Lá Trà",
+        "scope": "Thiết kế Logo",
         "year": 2024,
         "images": [
-            "/images/xyz1.jpg",
-            "/images/xyz2.jpg"
+            "images/la-tra/1.png",
+            "images/la-tra/2.png",
+            "images/la-tra/3.png",
+            "images/la-tra/4.png",
+            "images/la-tra/5.png",
+            "images/la-tra/6.png"
         ]
     }
 }
