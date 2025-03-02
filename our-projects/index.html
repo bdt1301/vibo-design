@@ -43,40 +43,40 @@
 
       <div class="row projects-list">
         <div class="col l-6 projects-sublist">
-          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('vibo')">
+          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('ptelanglab')">
             <img src="" alt="Vibo">
             <span class="project-title"></span>
           </a>
-          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('vibo')">
+          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('miky')">
             <img src="" alt="Vibo">
             <span class="project-title"></span>
           </a>
-          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('vibo')">
+          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('bengmi')">
             <img src="" alt="Vibo">
             <span class="project-title"></span>
           </a>
-          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('vibo')">
+          <a href="#" class="col l-6 m-6 c-6 project-item" onclick="openModal('nuocmamngochai')">
             <img src="" alt="Vibo">
             <span class="project-title"></span>
           </a>
         </div>
-        <a href="#" class="col l-6 m-12 c-12 project-item" onclick="openModal('vibo')">
+        <a href="#" class="col l-6 m-12 c-12 project-item" onclick="openModal('latra')">
           <img src="" alt="Vibo">
           <span class="project-title"></span>
         </a>
-        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('vibo')">
+        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('nhatrangfarm')">
           <img src="" alt="Vibo">
           <span class="project-title"></span>
         </a>
-        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('vibo')">
+        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('tumifood')">
           <img src="" alt="Vibo">
           <span class="project-title"></span>
         </a>
-        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('vibo')">
+        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('nanny365')">
           <img src="" alt="Vibo">
           <span class="project-title"></span>
         </a>
-        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('vibo')">
+        <a href="#" class="col l-3 m-6 c-6 project-item" onclick="openModal('femmechic')">
           <img src="" alt="Vibo">
           <span class="project-title"></span>
         </a>
@@ -90,7 +90,7 @@
           <span class="close" onclick="closeModal()">&times;</span>
         </div>
         <div class="info-block">
-          <p class="project-info"><strong>Khách hàng:</strong> <span id="project-client"></span></p>
+          <p class="project-info"><strong>Thiết kế:</strong> <span id="project-designer"></span></p>
           <p class="project-info"><strong>Phạm vi:</strong> <span id="project-scope"></span></p>
           <p class="project-info"><strong>Năm:</strong> <span id="project-year"></span></p>
         </div>
@@ -121,7 +121,6 @@
         const key = item.getAttribute("onclick").match(/'([^']+)'/)[1];
 
         if (projects[key]) {
-          item.querySelector(".project-title").innerText = projects[key].title;
           const imgElement = item.querySelector("img");
           if (imgElement && projects[key].images && projects[key].images.length > 0) {
             imgElement.src = projects[key].images[0];
@@ -161,7 +160,7 @@
       if (!project) return;
 
       document.getElementById("project-title").innerText = project.title;
-      document.getElementById("project-client").innerText = project.client;
+      document.getElementById("project-designer").innerText = project.designer;
       document.getElementById("project-scope").innerText = project.scope;
       document.getElementById("project-year").innerText = project.year;
 
@@ -173,6 +172,7 @@
         imagesContainer.appendChild(img);
       });
 
+      document.body.classList.add('modal-open');
       document.getElementById("project-modal").style.display = "flex";
     }
   </script>
@@ -189,6 +189,7 @@
     });
 
     function closeModal() {
+      document.body.classList.remove('modal-open');
       document.getElementById("project-modal").style.display = "none";
     }
   </script>

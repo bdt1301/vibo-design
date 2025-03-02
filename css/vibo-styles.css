@@ -230,39 +230,6 @@ p {
     margin-top: 12px;
 }
 
-.project-item::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 12px;
-    width: calc(100% - 24px);
-    height: 100%;
-    background: rgba(0, 0, 0, 0);
-    transition: background 0.3s ease;
-}
-
-.project-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    width: calc(100% - 36px);
-    text-align: center;
-    line-height: 1.2;
-    opacity: 0;
-    transition: opacity 0.3s ease, color 0.3s ease;
-    color: rgba(255, 255, 255, 0.5);
-}
-
-.project-item:hover::before {
-    background: rgba(0, 0, 0, 0.5);
-}
-
-.project-item:hover .project-title {
-    opacity: 1;
-    color: rgba(255, 255, 255, 1);
-}
-
 /* Modal styles */
 .modal {
     display: none;
@@ -278,13 +245,17 @@ p {
     margin-left: 0;
 }
 
+body.modal-open {
+    overflow-y: hidden;
+}
+
 .modal-content {
     background: white;
     padding: 60px;
     width: 80%;
-    height: 90vh;
-    overflow: auto;
+    max-height: 90vh;
     border-radius: 8px;
+    overflow: auto;
 }
 
 .title-block {

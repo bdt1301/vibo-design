@@ -1,16 +1,125 @@
 {
-    "vibo": {
+    "latra": {
         "title": "Lá Trà",
-        "client": "Lá Trà",
-        "scope": "Thiết kế Logo",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/la-tra/1.png",
-            "images/la-tra/2.png",
-            "images/la-tra/3.png",
-            "images/la-tra/4.png",
-            "images/la-tra/5.png",
-            "images/la-tra/6.png"
+            "images/1_Lá trà/1.png",
+            "images/1_Lá trà/2.png",
+            "images/1_Lá trà/3.png",
+            "images/1_Lá trà/4.png",
+            "images/1_Lá trà/5.png",
+            "images/1_Lá trà/6.png"
+        ]
+    },
+    "ptelanglab": {
+        "title": "PTE LangLAB",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/2_PTE LangLAB/1.png",
+            "images/2_PTE LangLAB/2.png",
+            "images/2_PTE LangLAB/3.png",
+            "images/2_PTE LangLAB/4.png",
+            "images/2_PTE LangLAB/5.png",
+            "images/2_PTE LangLAB/6.png"
+        ]
+    },
+    "miky": {
+        "title": "MiKy",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/3_Miky/1.png",
+            "images/3_Miky/2.png",
+            "images/3_Miky/3.png",
+            "images/3_Miky/4.png",
+            "images/3_Miky/5.png",
+            "images/3_Miky/6.png"
+        ]
+    },
+    "bengmi": {
+        "title": "béng mì",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/4_Béngmì/1.png",
+            "images/4_Béngmì/2.png",
+            "images/4_Béngmì/3.png",
+            "images/4_Béngmì/4.png",
+            "images/4_Béngmì/5.png",
+            "images/4_Béngmì/6.png"
+        ]
+    },
+    "nuocmamngochai": {
+        "title": "Nước mắm Ngọc Hải",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/5_Nước mắm ngọc hải/1.png",
+            "images/5_Nước mắm ngọc hải/2.png",
+            "images/5_Nước mắm ngọc hải/3.png",
+            "images/5_Nước mắm ngọc hải/4.png",
+            "images/5_Nước mắm ngọc hải/5.png",
+            "images/5_Nước mắm ngọc hải/6.png"
+        ]
+    },
+    "nhatrangfarm": {
+        "title": "Nha Trang Farm",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/6_Nha trang Farm/1.png",
+            "images/6_Nha trang Farm/2.png",
+            "images/6_Nha trang Farm/3.png",
+            "images/6_Nha trang Farm/4.png",
+            "images/6_Nha trang Farm/5.png",
+            "images/6_Nha trang Farm/6.png"
+        ]
+    },
+    "tumifood": {
+        "title": "Tumi Food",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/7_Tumifood/1.png",
+            "images/7_Tumifood/2.png",
+            "images/7_Tumifood/3.png",
+            "images/7_Tumifood/4.png",
+            "images/7_Tumifood/5.png"
+        ]
+    },
+    "nanny365": {
+        "title": "Nanny 365",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/8_Nanny 365/1.png",
+            "images/8_Nanny 365/2.png",
+            "images/8_Nanny 365/3.png",
+            "images/8_Nanny 365/4.png",
+            "images/8_Nanny 365/5.png"
+        ]
+    },
+    "femmechic": {
+        "title": "Femme Chic",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2024,
+        "images": [
+            "images/9_Femme chic/1.png",
+            "images/9_Femme chic/2.png",
+            "images/9_Femme chic/3.png",
+            "images/9_Femme chic/4.png",
+            "images/9_Femme chic/5.png"
         ]
     }
 }
