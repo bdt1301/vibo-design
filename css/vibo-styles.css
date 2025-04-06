@@ -83,6 +83,15 @@ p {
     }
 }
 
+.logo_component-slider {
+    width: 2560px;
+}
+
+.logo-slider-img {
+    filter: grayscale(100%);
+    height: 120px;
+}
+
 .div_cta {
     margin-bottom: 140px;
 }
