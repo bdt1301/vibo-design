@@ -83,6 +83,10 @@ p {
     }
 }
 
+/* .section-logo {
+    overflow: auto;
+} */
+
 .logo_component-slider {
     width: 3130px;
     /* transform: none !important; */

@@ -32,6 +32,11 @@
     .project-title {
         display: none;
     }
+
+    .logo_component-slider {
+        animation: slideInfinite 20s linear infinite;
+        /* transform: none !important; */
+    }
 }
 
 /* Tablet */
@@ -58,6 +63,10 @@
 
     .grid-2 {
         grid-column-gap: 2.2em;
+    }
+
+    .logo_component-slider {
+        width: 3120px;
     }
 }
 
@@ -162,5 +171,10 @@
     .service_item {
         font-size: 18px;
         margin-top: 10px;
+    }
+
+    .logo_component-slider {
+        width: 2620px;
+        grid-column-gap: 2rem;
     }
 }

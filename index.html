@@ -166,6 +166,32 @@
         .then(response => response.text())
         .then(data => document.getElementById("footer-placeholder").innerHTML = data);
     });
+
+    const slider = document.querySelector('.logo_component-slider');
+    function updateTransformKeyframes() {
+      const vw = window.innerWidth;
+      const sliderWidth = slider.offsetWidth;
+      const offset = -(1 - vw / sliderWidth) * 100;
+      const styleId = 'slide-keyframes-style';
+      let styleEl = document.getElementById(styleId);
+      if (!styleEl) {
+        styleEl = document.createElement('style');
+        styleEl.id = styleId;
+        document.head.appendChild(styleEl);
+      }
+      styleEl.textContent = `
+        @keyframes slideInfinite {
+          0% {
+            transform: translate3d(0%, 0, 0);
+          }
+          100% {
+            transform: translate3d(${offset}%, 0, 0);
+          }
+        }
+      `;
+    }
+    updateTransformKeyframes();
+    window.addEventListener('resize', updateTransformKeyframes);
   </script>
 
 </body>
