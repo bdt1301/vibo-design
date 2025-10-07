@@ -22,7 +22,7 @@ p {
 }
 
 ::selection {
-    color: #FAF3E0;
+    color: #faf3e0;
     background: gray;
 }
 
@@ -111,6 +111,20 @@ p {
     text-align: justify;
 }
 
+.grid_paragraph {
+    visibility: hidden;
+    opacity: 0;
+    max-height: 9999px;
+    transition: all 1.5s ease;
+    overflow: hidden;
+}
+
+.div_process_grid.active .grid_paragraph {
+    visibility: visible;
+    opacity: 1;
+    max-height: 9999px; /* hoặc auto, nhưng auto không transition được */
+}
+
 .heading-13 {
     font-size: 5.5rem;
 }
@@ -133,7 +147,7 @@ p {
 }
 
 .body_door .heading-13 {
-    color: var(--main-color)
+    color: var(--main-color);
 }
 
 .footer-02 {
@@ -293,7 +307,7 @@ body.modal-open {
 }
 
 .project-images {
-    margin-top: 20px
+    margin-top: 20px;
 }
 
 .project-images img {
