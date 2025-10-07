@@ -1,5 +1,5 @@
 /* Tablet and Mobile */
-@media (max-width:991px) {
+@media (max-width: 991px) {
     .navbar-2 {
         margin-top: 12px;
     }
@@ -40,7 +40,7 @@
 }
 
 /* Tablet */
-@media (max-width:991px) and (min-width:480px) {
+@media (max-width: 991px) and (min-width: 480px) {
     .section-4 {
         margin-top: 20px;
     }
@@ -68,10 +68,14 @@
     .logo_component-slider {
         width: 3120px;
     }
+
+    .modal-content .info-block .project-info:nth-child(2) {
+        order: 1;
+    }
 }
 
 /* Mobile */
-@media (max-width:479px) {
+@media (max-width: 479px) {
     .heading-13 {
         font-size: 3.5rem;
     }
@@ -160,6 +164,10 @@
         padding: 28px;
     }
 
+    .modal-content .info-block {
+        flex-direction: column;
+    }
+
     .footer-column {
         justify-content: flex-start;
     }
@@ -176,5 +184,15 @@
     .logo_component-slider {
         width: 2620px;
         grid-column-gap: 2rem;
+    }
+
+    #toast {
+        top: 32px;
+        right: 0;
+    }
+
+    .toast {
+        min-width: unset;
+        max-width: 100%;
     }
 }
