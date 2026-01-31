@@ -22,8 +22,8 @@
 }
 
 .col {
-    padding-left: 4px;
-    padding-right: 4px;
+    padding-left: 6px;
+    padding-right: 6px;
 }
 
 .row.no-gutters .col {
@@ -144,11 +144,6 @@
     .row {
         margin-left: -8px;
         margin-right: -8px;
-    }
-
-    .col {
-        padding-left: 8px;
-        padding-right: 8px;
     }
 
     .m-0 {
@@ -285,11 +280,6 @@
     .row.sm-gutter {
         margin-left: -5px;
         margin-right: -5px;
-    }
-
-    .col {
-        padding-left: 12px;
-        padding-right: 12px;
     }
 
     .row.sm-gutter .col {
@@ -448,11 +438,6 @@
     .wide .row.sm-gutter {
         margin-left: -5px;
         margin-right: -5px;
-    }
-
-    .wide .col {
-        padding-left: 12px;
-        padding-right: 12px;
     }
 
     .wide .row.sm-gutter .col {
