@@ -282,9 +282,8 @@ p {
 }
 
 .pagination button.active {
-    background: #000;
+    background: var(--main-color);
     color: #fff;
-    border-color: #000;
 }
 
 .pagination button:disabled {

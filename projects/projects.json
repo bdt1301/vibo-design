@@ -5,12 +5,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/1_Lá trà/1.jpg",
-            "images/1_Lá trà/2.jpg",
-            "images/1_Lá trà/3.jpg",
-            "images/1_Lá trà/4.jpg",
-            "images/1_Lá trà/5.jpg",
-            "images/1_Lá trà/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/1_latra/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/1_latra/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/1_latra/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/1_latra/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/1_latra/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/1_latra/6.jpg"
         ]
     },
     "ptelanglab": {
@@ -19,12 +19,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/2_PTE LangLAB/1.jpg",
-            "images/2_PTE LangLAB/2.jpg",
-            "images/2_PTE LangLAB/3.jpg",
-            "images/2_PTE LangLAB/4.jpg",
-            "images/2_PTE LangLAB/5.jpg",
-            "images/2_PTE LangLAB/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/2_ptelanglab/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/2_ptelanglab/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/2_ptelanglab/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/2_ptelanglab/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/2_ptelanglab/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/2_ptelanglab/6.jpg"
         ]
     },
     "miky": {
@@ -33,12 +33,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/3_Miky/1.jpg",
-            "images/3_Miky/2.jpg",
-            "images/3_Miky/3.jpg",
-            "images/3_Miky/4.jpg",
-            "images/3_Miky/5.jpg",
-            "images/3_Miky/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/3_miky/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/3_miky/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/3_miky/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/3_miky/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/3_miky/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/3_miky/6.jpg"
         ]
     },
     "bengmi": {
@@ -47,12 +47,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/4_Béngmì/1.jpg",
-            "images/4_Béngmì/2.jpg",
-            "images/4_Béngmì/3.jpg",
-            "images/4_Béngmì/4.jpg",
-            "images/4_Béngmì/5.jpg",
-            "images/4_Béngmì/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/4_bengmi/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/4_bengmi/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/4_bengmi/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/4_bengmi/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/4_bengmi/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/4_bengmi/6.jpg"
         ]
     },
     "nuocmamngochai": {
@@ -61,12 +61,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/5_Nước mắm ngọc hải/1.jpg",
-            "images/5_Nước mắm ngọc hải/2.jpg",
-            "images/5_Nước mắm ngọc hải/3.jpg",
-            "images/5_Nước mắm ngọc hải/4.jpg",
-            "images/5_Nước mắm ngọc hải/5.jpg",
-            "images/5_Nước mắm ngọc hải/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/5_nuocmamngochai/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/5_nuocmamngochai/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/5_nuocmamngochai/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/5_nuocmamngochai/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/5_nuocmamngochai/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/5_nuocmamngochai/6.jpg"
         ]
     },
     "nhatrangfarm": {
@@ -75,12 +75,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/6_Nha trang Farm/1.jpg",
-            "images/6_Nha trang Farm/2.jpg",
-            "images/6_Nha trang Farm/3.jpg",
-            "images/6_Nha trang Farm/4.jpg",
-            "images/6_Nha trang Farm/5.jpg",
-            "images/6_Nha trang Farm/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/6_nhatrangfarm/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/6_nhatrangfarm/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/6_nhatrangfarm/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/6_nhatrangfarm/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/6_nhatrangfarm/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/6_nhatrangfarm/6.jpg"
         ]
     },
     "tumifood": {
@@ -89,11 +89,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/7_Tumifood/1.jpg",
-            "images/7_Tumifood/2.jpg",
-            "images/7_Tumifood/3.jpg",
-            "images/7_Tumifood/4.jpg",
-            "images/7_Tumifood/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/7_tumifood/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/7_tumifood/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/7_tumifood/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/7_tumifood/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/7_tumifood/5.jpg"
         ]
     },
     "nanny365": {
@@ -102,11 +102,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/8_Nanny 365/1.jpg",
-            "images/8_Nanny 365/2.jpg",
-            "images/8_Nanny 365/3.jpg",
-            "images/8_Nanny 365/4.jpg",
-            "images/8_Nanny 365/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/8_nanny365/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/8_nanny365/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/8_nanny365/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/8_nanny365/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/8_nanny365/5.jpg"
         ]
     },
     "femmechic": {
@@ -115,11 +115,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/9_Femme chic/1.jpg",
-            "images/9_Femme chic/2.jpg",
-            "images/9_Femme chic/3.jpg",
-            "images/9_Femme chic/4.jpg",
-            "images/9_Femme chic/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/9_femmechic/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/9_femmechic/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/9_femmechic/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/9_femmechic/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/9_femmechic/5.jpg"
         ]
     },
     "tiembanhbonho": {
@@ -128,10 +128,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2024,
         "images": [
-            "images/10_ tiem banh bo nho/1.jpg",
-            "images/10_ tiem banh bo nho/2.jpg",
-            "images/10_ tiem banh bo nho/3.jpg",
-            "images/10_ tiem banh bo nho/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/10_tiembanhbonho/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/10_tiembanhbonho/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/10_tiembanhbonho/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/10_tiembanhbonho/4.jpg"
         ]
     },
     "amybeauty": {
@@ -140,11 +140,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/11_amy beauty/1.jpg",
-            "images/11_amy beauty/2.jpg",
-            "images/11_amy beauty/3.jpg",
-            "images/11_amy beauty/4.jpg",
-            "images/11_amy beauty/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/11_amybeauty/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/11_amybeauty/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/11_amybeauty/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/11_amybeauty/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/11_amybeauty/5.jpg"
         ]
     },
     "kemmycha": {
@@ -153,11 +153,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/12_kemmy cha/1.jpg",
-            "images/12_kemmy cha/2.jpg",
-            "images/12_kemmy cha/3.jpg",
-            "images/12_kemmy cha/4.jpg",
-            "images/12_kemmy cha/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/12_kemmycha/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/12_kemmycha/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/12_kemmycha/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/12_kemmycha/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/12_kemmycha/5.jpg"
         ]
     },
     "solbeauty": {
@@ -166,10 +166,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/13_Sol beauty/1.jpg",
-            "images/13_Sol beauty/2.jpg",
-            "images/13_Sol beauty/3.jpg",
-            "images/13_Sol beauty/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/13_solbeauty/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/13_solbeauty/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/13_solbeauty/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/13_solbeauty/4.jpg"
         ]
     },
     "sachchatgpt": {
@@ -178,13 +178,13 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/14_Sach ChatGPT/1.jpg",
-            "images/14_Sach ChatGPT/2.jpg",
-            "images/14_Sach ChatGPT/3.jpg",
-            "images/14_Sach ChatGPT/4.jpg",
-            "images/14_Sach ChatGPT/5.jpg",
-            "images/14_Sach ChatGPT/6.jpg",
-            "images/14_Sach ChatGPT/7.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/14_sachchatgpt/7.jpg"
         ]
     },
     "bedo": {
@@ -193,11 +193,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/15_be do/1.jpg",
-            "images/15_be do/2.jpg",
-            "images/15_be do/3.jpg",
-            "images/15_be do/4.jpg",
-            "images/15_be do/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/15_bedo/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/15_bedo/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/15_bedo/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/15_bedo/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/15_bedo/5.jpg"
         ]
     },
     "daihoiviii": {
@@ -206,12 +206,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/16_dai hoi VIII/1.jpg",
-            "images/16_dai hoi VIII/2.jpg",
-            "images/16_dai hoi VIII/3.jpg",
-            "images/16_dai hoi VIII/4.jpg",
-            "images/16_dai hoi VIII/5.jpg",
-            "images/16_dai hoi VIII/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/16_daihoiviii/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/16_daihoiviii/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/16_daihoiviii/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/16_daihoiviii/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/16_daihoiviii/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/16_daihoiviii/6.jpg"
         ]
     },
     "vinamơ": {
@@ -220,11 +220,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/17_vina mơ/1.jpg",
-            "images/17_vina mơ/2.jpg",
-            "images/17_vina mơ/3.jpg",
-            "images/17_vina mơ/4.jpg",
-            "images/17_vina mơ/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/17_vinamo/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/17_vinamo/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/17_vinamo/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/17_vinamo/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/17_vinamo/5.jpg"
         ]
     },
     "aura": {
@@ -232,7 +232,12 @@
         "designer": "Vibo Design",
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
-        "images": ["images/18_aura/1.jpg", "images/18_aura/2.jpg", "images/18_aura/3.jpg", "images/18_aura/4.jpg"]
+        "images": [
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/18_aura/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/18_aura/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/18_aura/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/18_aura/4.jpg"
+        ]
     },
     "laco": {
         "title": "Laco",
@@ -240,11 +245,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/19_laco/1.jpg",
-            "images/19_laco/2.jpg",
-            "images/19_laco/3.jpg",
-            "images/19_laco/4.jpg",
-            "images/19_laco/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/19_laco/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/19_laco/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/19_laco/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/19_laco/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/19_laco/5.jpg"
         ]
     },
     "honganh": {
@@ -253,10 +258,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/20_hong anh/1.jpg",
-            "images/20_hong anh/2.jpg",
-            "images/20_hong anh/3.jpg",
-            "images/20_hong anh/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/20_honganh/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/20_honganh/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/20_honganh/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/20_honganh/4.jpg"
         ]
     },
     "laqueenbeauty": {
@@ -265,10 +270,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/21_La Queen beauty/1.jpg",
-            "images/21_La Queen beauty/2.jpg",
-            "images/21_La Queen beauty/3.jpg",
-            "images/21_La Queen beauty/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/21_laqueenbeauty/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/21_laqueenbeauty/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/21_laqueenbeauty/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/21_laqueenbeauty/4.jpg"
         ]
     },
     "bocuti": {
@@ -277,11 +282,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/22_bo cuti/1.jpg",
-            "images/22_bo cuti/2.jpg",
-            "images/22_bo cuti/3.jpg",
-            "images/22_bo cuti/4.jpg",
-            "images/22_bo cuti/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/22_bocuti/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/22_bocuti/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/22_bocuti/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/22_bocuti/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/22_bocuti/5.jpg"
         ]
     },
     "sol": {
@@ -290,11 +295,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/23_sol/1.jpg",
-            "images/23_sol/2.jpg",
-            "images/23_sol/3.jpg",
-            "images/23_sol/4.jpg",
-            "images/23_sol/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/23_sol/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/23_sol/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/23_sol/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/23_sol/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/23_sol/5.jpg"
         ]
     },
     "khanggia": {
@@ -303,14 +308,14 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/24_khang gia/1.jpg",
-            "images/24_khang gia/2.jpg",
-            "images/24_khang gia/3.jpg",
-            "images/24_khang gia/4.jpg",
-            "images/24_khang gia/5.jpg",
-            "images/24_khang gia/6.jpg",
-            "images/24_khang gia/7.jpg",
-            "images/24_khang gia/8.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/7.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/24_khanggia/8.jpg"
         ]
     },
     "connhỏbándep": {
@@ -319,11 +324,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/25_con nhỏ bán dep/1.jpg",
-            "images/25_con nhỏ bán dep/2.jpg",
-            "images/25_con nhỏ bán dep/3.jpg",
-            "images/25_con nhỏ bán dep/4.jpg",
-            "images/25_con nhỏ bán dep/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/25_connhobandep/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/25_connhobandep/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/25_connhobandep/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/25_connhobandep/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/25_connhobandep/5.jpg"
         ]
     },
     "trendy": {
@@ -332,11 +337,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/26_trendy/1.jpg",
-            "images/26_trendy/2.jpg",
-            "images/26_trendy/3.jpg",
-            "images/26_trendy/4.jpg",
-            "images/26_trendy/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/26_trendy/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/26_trendy/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/26_trendy/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/26_trendy/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/26_trendy/5.jpg"
         ]
     },
     "truyentienhiep": {
@@ -345,14 +350,14 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/27_truyen tien hiep/1.jpg",
-            "images/27_truyen tien hiep/2.jpg",
-            "images/27_truyen tien hiep/3.jpg",
-            "images/27_truyen tien hiep/4.jpg",
-            "images/27_truyen tien hiep/5.jpg",
-            "images/27_truyen tien hiep/6.jpg",
-            "images/27_truyen tien hiep/7.jpg",
-            "images/27_truyen tien hiep/8.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/7.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/27_truyentienhiep/8.jpg"
         ]
     },
     "minhhungw": {
@@ -361,11 +366,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/28_minh hungw/1.jpg",
-            "images/28_minh hungw/2.jpg",
-            "images/28_minh hungw/3.jpg",
-            "images/28_minh hungw/4.jpg",
-            "images/28_minh hungw/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/28_minhhungw/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/28_minhhungw/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/28_minhhungw/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/28_minhhungw/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/28_minhhungw/5.jpg"
         ]
     },
     "camaptiny": {
@@ -374,11 +379,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/29_ca map tiny/1.jpg",
-            "images/29_ca map tiny/2.jpg",
-            "images/29_ca map tiny/3.jpg",
-            "images/29_ca map tiny/4.jpg",
-            "images/29_ca map tiny/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/29_camaptiny/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/29_camaptiny/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/29_camaptiny/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/29_camaptiny/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/29_camaptiny/5.jpg"
         ]
     },
     "aurora": {
@@ -387,13 +392,13 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/30_aurora/1.jpg",
-            "images/30_aurora/2.jpg",
-            "images/30_aurora/3.jpg",
-            "images/30_aurora/4.jpg",
-            "images/30_aurora/5.jpg",
-            "images/30_aurora/6.jpg",
-            "images/30_aurora/7.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/30_aurora/7.jpg"
         ]
     },
     "megamom": {
@@ -402,11 +407,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/31_megamom/1.jpg",
-            "images/31_megamom/2.jpg",
-            "images/31_megamom/3.jpg",
-            "images/31_megamom/4.jpg",
-            "images/31_megamom/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/31_megamom/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/31_megamom/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/31_megamom/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/31_megamom/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/31_megamom/5.jpg"
         ]
     },
     "banhmitq": {
@@ -415,14 +420,14 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/32_banh mi tq/1.jpg",
-            "images/32_banh mi tq/2.jpg",
-            "images/32_banh mi tq/3.jpg",
-            "images/32_banh mi tq/4.jpg",
-            "images/32_banh mi tq/5.jpg",
-            "images/32_banh mi tq/6.jpg",
-            "images/32_banh mi tq/7.jpg",
-            "images/32_banh mi tq/8.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/7.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/32_banhmitq/8.jpg"
         ]
     },
     "caoduy": {
@@ -431,13 +436,13 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/33_cao duy/1.jpg",
-            "images/33_cao duy/2.jpg",
-            "images/33_cao duy/3.jpg",
-            "images/33_cao duy/4.jpg",
-            "images/33_cao duy/5.jpg",
-            "images/33_cao duy/6.jpg",
-            "images/33_cao duy/7.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/33_caoduy/7.jpg"
         ]
     },
     "bobalover": {
@@ -446,14 +451,14 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/34_bobalover/1.jpg",
-            "images/34_bobalover/2.jpg",
-            "images/34_bobalover/3.jpg",
-            "images/34_bobalover/4.jpg",
-            "images/34_bobalover/5.jpg",
-            "images/34_bobalover/6.jpg",
-            "images/34_bobalover/7.jpg",
-            "images/34_bobalover/8.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/7.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/34_bobalover/8.jpg"
         ]
     },
     "chang": {
@@ -462,11 +467,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/35_chang/1.jpg",
-            "images/35_chang/2.jpg",
-            "images/35_chang/3.jpg",
-            "images/35_chang/4.jpg",
-            "images/35_chang/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/35_chang/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/35_chang/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/35_chang/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/35_chang/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/35_chang/5.jpg"
         ]
     },
     "yaka": {
@@ -475,12 +480,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/36_yaka/1.jpg",
-            "images/36_yaka/2.jpg",
-            "images/36_yaka/3.jpg",
-            "images/36_yaka/4.jpg",
-            "images/36_yaka/5.jpg",
-            "images/36_yaka/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/36_yaka/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/36_yaka/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/36_yaka/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/36_yaka/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/36_yaka/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/36_yaka/6.jpg"
         ]
     },
     "mamtom": {
@@ -489,10 +494,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/37_mam tom/1.jpg",
-            "images/37_mam tom/2.jpg",
-            "images/37_mam tom/3.jpg",
-            "images/37_mam tom/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/37_mamtom/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/37_mamtom/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/37_mamtom/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/37_mamtom/4.jpg"
         ]
     },
     "pk": {
@@ -501,11 +506,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/38_PK/1.jpg",
-            "images/38_PK/2.jpg",
-            "images/38_PK/3.jpg",
-            "images/38_PK/4.jpg",
-            "images/38_PK/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/38_pk/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/38_pk/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/38_pk/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/38_pk/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/38_pk/5.jpg"
         ]
     },
     "baobicaphelanga": {
@@ -514,12 +519,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/39_bao bi ca phe la nga/1.jpg",
-            "images/39_bao bi ca phe la nga/2.jpg",
-            "images/39_bao bi ca phe la nga/3.jpg",
-            "images/39_bao bi ca phe la nga/4.jpg",
-            "images/39_bao bi ca phe la nga/5.jpg",
-            "images/39_bao bi ca phe la nga/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/39_baobicaphelanga/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/39_baobicaphelanga/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/39_baobicaphelanga/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/39_baobicaphelanga/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/39_baobicaphelanga/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/39_baobicaphelanga/6.jpg"
         ]
     },
     "bebes": {
@@ -528,11 +533,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/40_be bes/1.jpg",
-            "images/40_be bes/2.jpg",
-            "images/40_be bes/3.jpg",
-            "images/40_be bes/4.jpg",
-            "images/40_be bes/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/40_bebes/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/40_bebes/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/40_bebes/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/40_bebes/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/40_bebes/5.jpg"
         ]
     },
     "xoàisấy": {
@@ -541,10 +546,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/41_xoài sấy/1.jpg",
-            "images/41_xoài sấy/2.jpg",
-            "images/41_xoài sấy/3.jpg",
-            "images/41_xoài sấy/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/41_xoaisay/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/41_xoaisay/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/41_xoaisay/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/41_xoaisay/4.jpg"
         ]
     },
     "bamijoy": {
@@ -553,12 +558,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/42_BAMIJOY/1.jpg",
-            "images/42_BAMIJOY/2.jpg",
-            "images/42_BAMIJOY/3.jpg",
-            "images/42_BAMIJOY/4.jpg",
-            "images/42_BAMIJOY/5.jpg",
-            "images/42_BAMIJOY/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/42_bamijoy/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/42_bamijoy/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/42_bamijoy/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/42_bamijoy/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/42_bamijoy/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/42_bamijoy/6.jpg"
         ]
     },
     "yun": {
@@ -567,12 +572,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/43_yun/1.jpg",
-            "images/43_yun/2.jpg",
-            "images/43_yun/3.jpg",
-            "images/43_yun/4.jpg",
-            "images/43_yun/5.jpg",
-            "images/43_yun/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/43_yun/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/43_yun/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/43_yun/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/43_yun/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/43_yun/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/43_yun/6.jpg"
         ]
     },
     "nama": {
@@ -581,11 +586,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/44_nama/1.jpg",
-            "images/44_nama/2.jpg",
-            "images/44_nama/3.jpg",
-            "images/44_nama/4.jpg",
-            "images/44_nama/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/44_nama/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/44_nama/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/44_nama/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/44_nama/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/44_nama/5.jpg"
         ]
     },
     "nonêquán": {
@@ -594,11 +599,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/45_No Nê Quán/1.jpg",
-            "images/45_No Nê Quán/2.jpg",
-            "images/45_No Nê Quán/3.jpg",
-            "images/45_No Nê Quán/5.jpg",
-            "images/45_No Nê Quán/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/45_nonequan/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/45_nonequan/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/45_nonequan/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/45_nonequan/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/45_nonequan/6.jpg"
         ]
     },
     "touyen": {
@@ -607,10 +612,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/46_to uyen/1.jpg",
-            "images/46_to uyen/2.jpg",
-            "images/46_to uyen/3.jpg",
-            "images/46_to uyen/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/46_touyen/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/46_touyen/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/46_touyen/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/46_touyen/4.jpg"
         ]
     },
     "moonhealing": {
@@ -619,10 +624,10 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/47_moon healing/1.jpg",
-            "images/47_moon healing/2.jpg",
-            "images/47_moon healing/3.jpg",
-            "images/47_moon healing/4.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/47_moonhealing/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/47_moonhealing/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/47_moonhealing/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/47_moonhealing/4.jpg"
         ]
     },
     "galoco": {
@@ -631,13 +636,13 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/48_ga loco/1.jpg",
-            "images/48_ga loco/2.jpg",
-            "images/48_ga loco/3.jpg",
-            "images/48_ga loco/4.jpg",
-            "images/48_ga loco/5.jpg",
-            "images/48_ga loco/6.jpg",
-            "images/48_ga loco/7.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/6.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/48_galoco/7.jpg"
         ]
     },
     "togiacf": {
@@ -646,11 +651,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/49_To gia cf/1.jpg",
-            "images/49_To gia cf/2.jpg",
-            "images/49_To gia cf/3.jpg",
-            "images/49_To gia cf/4.jpg",
-            "images/49_To gia cf/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/49_togiacf/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/49_togiacf/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/49_togiacf/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/49_togiacf/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/49_togiacf/5.jpg"
         ]
     },
     "hoshosushi": {
@@ -659,12 +664,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2025,
         "images": [
-            "images/50_hosho sushi/1.jpg",
-            "images/50_hosho sushi/2.jpg",
-            "images/50_hosho sushi/3.jpg",
-            "images/50_hosho sushi/4.jpg",
-            "images/50_hosho sushi/5.jpg",
-            "images/50_hosho sushi/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/50_hoshosushi/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/50_hoshosushi/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/50_hoshosushi/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/50_hoshosushi/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/50_hoshosushi/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/50_hoshosushi/6.jpg"
         ]
     },
     "sunraven": {
@@ -673,12 +678,12 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2026,
         "images": [
-            "images/51_SunRaven/1.jpg",
-            "images/51_SunRaven/2.jpg",
-            "images/51_SunRaven/3.jpg",
-            "images/51_SunRaven/4.jpg",
-            "images/51_SunRaven/5.jpg",
-            "images/51_SunRaven/6.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/51_sunraven/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/51_sunraven/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/51_sunraven/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/51_sunraven/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/51_sunraven/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/51_sunraven/6.jpg"
         ]
     },
     "indochine": {
@@ -687,11 +692,11 @@
         "scope": "Bộ nhận diện thương hiệu",
         "year": 2026,
         "images": [
-            "images/52_Indochine/1.jpg",
-            "images/52_Indochine/2.jpg",
-            "images/52_Indochine/3.jpg",
-            "images/52_Indochine/4.jpg",
-            "images/52_Indochine/5.jpg"
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/5.jpg"
         ]
     }
 }

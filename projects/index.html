@@ -396,12 +396,29 @@
                 document.body.classList.add('modal-open');
                 document.getElementById('project-modal').style.display = 'flex';
                 document.querySelector('.modal-content').scrollTop = 0;
+
+                if (!history.state || !history.state.modal) {
+                    history.pushState({ modal: true, projectKey: key }, '', '#' + key);
+                }
             }
 
             function closeModal() {
                 document.body.classList.remove('modal-open');
                 document.getElementById('project-modal').style.display = 'none';
+
+                if (history.state && history.state.modal) {
+                    history.back();
+                }
             }
+
+            window.addEventListener('popstate', () => {
+                const modal = document.getElementById('project-modal');
+
+                if (modal.style.display === 'flex') {
+                    document.body.classList.remove('modal-open');
+                    modal.style.display = 'none';
+                }
+            });
 
             document.addEventListener('DOMContentLoaded', function () {
                 loadProjectData();
