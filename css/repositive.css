@@ -63,6 +63,7 @@
 
     .grid-2 {
         grid-column-gap: 2.2em;
+        grid-template: "Area Area2" / 1fr 1fr;
     }
 
     .logo_component-slider {

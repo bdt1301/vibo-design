@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!doctype html>
 <html data-wf-page="65a79a36e57b234fb27c6dd7" data-wf-site="628488dc7d6e4d0605fa192b">
     <head>
         <meta charset="utf-8" />
@@ -319,15 +319,31 @@
         </script>
 
         <script>
-            document.querySelectorAll('.div_process_grid').forEach((div) => {
-                div.classList.remove('active');
-            });
+            const items = document.querySelectorAll('.div_process_grid');
+            const isMobileTablet = window.matchMedia('(max-width: 991px)').matches;
 
-            document.querySelectorAll('.div_process_grid').forEach((item) => {
-                item.addEventListener('mouseover', () => {
-                    item.classList.add('active');
+            if (isMobileTablet) {
+                const observer = new IntersectionObserver(
+                    (entries) => {
+                        entries.forEach((entry) => {
+                            if (entry.isIntersecting) {
+                                entry.target.classList.add('active');
+                            } else {
+                                entry.target.classList.remove('active');
+                            }
+                        });
+                    },
+                    { threshold: 0.8 },
+                );
+
+                items.forEach((item) => observer.observe(item));
+            } else {
+                items.forEach((item) => {
+                    item.addEventListener('mouseover', () => {
+                        item.classList.add('active');
+                    });
                 });
-            });
+            }
         </script>
     </body>
 </html>
