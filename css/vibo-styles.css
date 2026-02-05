@@ -249,6 +249,19 @@ p {
     padding: 0;
 }
 
+#toggleSort {
+    display: block;
+    width: 120px;
+    padding: 10px 0;
+    margin-left: auto;
+    border-radius: 8px;
+}
+
+#toggleSort:hover {
+    color: #fff;
+    background-color: var(--main-color);
+}
+
 .project-item {
     display: block;
     position: relative;
@@ -269,6 +282,7 @@ p {
     justify-content: center;
     gap: 8px;
     flex-wrap: wrap;
+    margin: 0 18px;
     margin-top: 24px;
     margin-bottom: 140px;
 }
