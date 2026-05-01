@@ -698,5 +698,58 @@
             "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/4.jpg",
             "https://res.cloudinary.com/dknsweybf/image/upload/f_auto,q_auto/vibo_projects/52_indochine/5.jpg"
         ]
+    },
+    "lumora": {
+        "title": "Lumora",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2026,
+        "images": [
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/53_lumora/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/53_lumora/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/53_lumora/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/53_lumora/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/53_lumora/5.jpg"
+        ]
+    },
+    "figor": {
+        "title": "Figor",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2026,
+        "images": [
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/54_figor/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/54_figor/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/54_figor/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/54_figor/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/54_figor/5.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/54_figor/6.jpg"
+        ]
+    },
+    "lofita": {
+        "title": "Lofita",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2026,
+        "images": [
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/55_lofita/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/55_lofita/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/55_lofita/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/55_lofita/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/55_lofita/5.jpg"
+        ]
+    },
+    "thegreenwind": {
+        "title": "The Green Wind",
+        "designer": "Vibo Design",
+        "scope": "Bộ nhận diện thương hiệu",
+        "year": 2026,
+        "images": [
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/56_thegreenwind/1.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/56_thegreenwind/2.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/56_thegreenwind/3.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/56_thegreenwind/4.jpg",
+            "https://res.cloudinary.com/dknsweybf/image/upload/vibo_projects/56_thegreenwind/5.jpg"
+        ]
     }
 }
